@@ -1,4 +1,7 @@
-# wcl-flip-anim-demo
-卡片的翻页动画
+# FlipCard-master
+自动翻转卡片小动画
 
-[参考](http://www.jianshu.com/p/7db8425e84fc)
+![image](https://github.com/mengcuiguang/FlipCard-master/blob/master/test.gif )  
+
+使用方法：见Demo。
+
